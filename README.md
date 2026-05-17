@@ -21,6 +21,7 @@ Ensure confidentiality, integrity, and authenticity of internal communications a
 ### Tools Used
 - Kali Linux
 - GnuPG (GPG)
+<img width="920" height="610" alt="image" src="https://github.com/user-attachments/assets/85e6416e-c556-4e52-a0c7-2afe88129029" />
 
 ---
 
